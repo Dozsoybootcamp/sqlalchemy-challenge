@@ -1,8 +1,11 @@
 SQLAlchemy Climate Analysis
+
 Project Overview
+
 This project is part of the SQLAlchemy challenge, where the goal is to analyze and explore climate data from the hawaii.sqlite database. The analysis includes precipitation and station analysis, followed by the creation of a Flask API to interact with the climate data.
 
 Project Structure
+
 The project is divided into two main parts:
 
 Data Analysis and Exploration:
